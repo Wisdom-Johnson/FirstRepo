@@ -1,1 +1,3 @@
-This is my default branch called "MASTER"
+This is my default branch called "MASTER".
+You're now a master.
+Master Wizzy Shifu
